@@ -6,7 +6,7 @@
 #ifndef WORDS1_H
 #define WORDS1_H
 
-namespace lab04_1
+namespace lab03_1
 {
     class Words
     {
