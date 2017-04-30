@@ -1,5 +1,5 @@
 // intlist.h
-// Linked list header file for CS 24 Lab05
+// Linked list header file 
 
 #ifndef INTLIST_H
 #define INTLIST_H
