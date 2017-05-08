@@ -46,7 +46,6 @@ IntList::~IntList() {
         Node *garbage = n;
         n = n->next;
         delete garbage;
-    }
 }
 
 // append value at end of list
